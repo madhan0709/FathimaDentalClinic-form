@@ -78,12 +78,12 @@ footer{
     padding: 20px 10px;
     flex-direction: column;
 }
-h5{
-    color:rgb(47,93,94);
-    font-weight: 500;
-    margin-top: -10px;
-    margin-bottom: 20px;
-    font-size: 14px;
+h4{
+    color:white;
+    font-weight: bold;
+    margin-top: -5px;
+    margin-bottom: 6px;
+    font-size: 16px;
     text-align: center;
 }
 hr{
